@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.6">
+      <module name="Composite Build Native.Composite_Build_Native.app" target="11" />
+      <module name="Composite Build Native.Composite_Build_Native.nativelib" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

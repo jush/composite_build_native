@@ -1,0 +1,6 @@
+includeBuild("product") {
+    dependencySubstitution {
+        substitute(module("com.product:nativelib")).using(project(":nativelib"))
+    }
+}
+
